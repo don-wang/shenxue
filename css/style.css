@@ -14,7 +14,9 @@
 
 	body,input,textarea,select
 	{
-		font-family: 'Open Sans', sans-serif;
+		font-family: Tahoma, Helvetica, Arial, "Microsoft Yahei","微软雅黑", STXihei, "华文细黑", sans-serif;;
+		
+		/*font-family: 'Open Sans', "Microsoft Yahei", sans-serif;*/
 		line-height: 1.85em;
 		color: #888;
 		font-weight: 300;
@@ -577,7 +579,7 @@
 
 		.icon.featured
 		{
-			color: #EA8A95;
+			color: #74b3db;
 			display: block;
 			margin: 0 0 1.5em 0;
 			cursor: default;
