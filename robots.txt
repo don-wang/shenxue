@@ -1,0 +1,6 @@
+# robots.txt for http://shenxuekecheng.com/
+
+User-agent: *
+
+Disallow: /assets/
+Disallow: /images/
